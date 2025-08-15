@@ -1008,6 +1008,14 @@
               "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
               "icon": "/assets/favicon_1755244213216.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755244317338_msry4mcb1",
+              "title": "HDHive-影巢",
+              "href": "https://hdhive.com/search",
+              "description": "在我们的网站上搜索丰富的电影和电视信息。找到你最喜欢的影片和节目，获取详细的信息和评价。由 The Movie Database (TMDB) API 提供影视搜索服务",
+              "icon": "/assets/favicon_1755244295665.ico",
+              "enabled": true
             }
           ]
         }
