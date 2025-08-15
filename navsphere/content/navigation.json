@@ -1072,6 +1072,14 @@
               "description": "全网无损音乐免费下载，音乐搜索,音乐在线试听,下载,在线解析网",
               "icon": "/assets/favicon_1755248130588.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755249280760_6hckpt4b8",
+              "title": "放屁网",
+              "href": "https://www.fangpi.net/",
+              "description": "放屁网在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质~",
+              "icon": "/assets/favicon_1755249265699.ico",
+              "enabled": true
             }
           ]
         },
