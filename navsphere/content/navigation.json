@@ -1080,6 +1080,14 @@
               "description": "放屁网在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质~",
               "icon": "/assets/favicon_1755249265699.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755249323868_irhg3gr90",
+              "title": "雀乐",
+              "href": "https://www.indie.cn/",
+              "description": "访问 www.indie.cn",
+              "icon": "/assets/favicon_1755249309993.png",
+              "enabled": true
             }
           ]
         },
