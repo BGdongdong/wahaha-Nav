@@ -849,6 +849,14 @@
               "enabled": true
             },
             {
+              "id": "site_1755242834110_2yb65svf8",
+              "title": "迪士尼、Marvel、彼思、星球大戰、國家地理和 Star | Disney+ 香港",
+              "href": "https://www.disneyplus.com/zh-hk",
+              "description": "註冊成為會員，盡情收看熱門好戲、煲劇之選、亞洲和國際原創作品等。立即開始播放！",
+              "icon": "/assets/favicon_1755242826480.png",
+              "enabled": true
+            },
+            {
               "id": "site_1755073611611_1arfuhhsf",
               "title": "奈飞工厂",
               "href": "https://www.netflixgc.com/",
@@ -942,14 +950,6 @@
               "href": "https://www.nmzkzk.com/",
               "description": "访问 www.nmzkzk.com",
               "icon": "/assets/favicon_1755242637159.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1755242834110_2yb65svf8",
-              "title": "迪士尼、Marvel、彼思、星球大戰、國家地理和 Star | Disney+ 香港",
-              "href": "https://www.disneyplus.com/zh-hk",
-              "description": "註冊成為會員，盡情收看熱門好戲、煲劇之選、亞洲和國際原創作品等。立即開始播放！",
-              "icon": "/assets/favicon_1755242826480.png",
               "enabled": true
             }
           ]
