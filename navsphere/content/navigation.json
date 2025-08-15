@@ -841,14 +841,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "site_1755242834110_2yb65svf8",
-              "title": "Disney+",
-              "href": "https://www.disneyplus.com/zh-hk",
-              "description": "註冊成為會員，盡情收看熱門好戲、煲劇之選、亞洲和國際原創作品等。立即開始播放！",
-              "icon": "/assets/favicon_1755242826480.png",
-              "enabled": true
-            },
-            {
               "id": "site_1755073611611_1arfuhhsf",
               "title": "奈飞工厂",
               "href": "https://www.netflixgc.com/",
