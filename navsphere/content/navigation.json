@@ -483,6 +483,14 @@
               "description": "才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频",
               "icon": "/assets/img_1754644770045.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755247731159_3lhxflcjv",
+              "title": "在线电脑壁纸",
+              "href": "https://tool.liumingye.cn/wallpaper/",
+              "description": "在线壁纸提供高清电脑壁纸下载,包括美女,游戏,动漫,动物,汽车,体育,广告,影视,明星,风景,绘画,节日,花卉等经典壁纸",
+              "icon": "/assets/favicon_1755247722949.png",
+              "enabled": true
             }
           ]
         },
