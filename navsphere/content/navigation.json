@@ -1088,6 +1088,14 @@
               "description": "访问 www.indie.cn",
               "icon": "/assets/favicon_1755249309993.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755249397714_tao4c56y3",
+              "title": "街声Streetvoice",
+              "href": "https://www.streetvoice.cn/",
+              "description": "一个为国内音乐人免费提供歌曲发布的平台，网站很小众，里面的歌曲也很小众，适合音乐爱好者！",
+              "icon": "/assets/favicon_1755249365725.png",
+              "enabled": true
             }
           ]
         },
