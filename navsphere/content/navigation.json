@@ -967,6 +967,14 @@
               "description": "在线观影",
               "icon": "/assets/favicon_1755243228494.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755243313438_8l88kk87d",
+              "title": "AZMovies",
+              "href": "https://azmovies.ag/",
+              "description": "在线观影",
+              "icon": "/assets/favicon_1755243292657.png",
+              "enabled": true
             }
           ]
         },
