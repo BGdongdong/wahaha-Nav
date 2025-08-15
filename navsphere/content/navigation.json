@@ -943,6 +943,14 @@
               "description": "線上觀賞 Netflix（網飛）電影與節目，或直接串流至智慧型電視、遊戲機、PC、Mac、手機、平板電腦等多種裝置。",
               "icon": "/assets/favicon_1755242747695.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755242834110_2yb65svf8",
+              "title": "迪士尼、Marvel、彼思、星球大戰、國家地理和 Star | Disney+ 香港",
+              "href": "https://www.disneyplus.com/zh-hk",
+              "description": "註冊成為會員，盡情收看熱門好戲、煲劇之選、亞洲和國際原創作品等。立即開始播放！",
+              "icon": "/assets/favicon_1755242826480.png",
+              "enabled": true
             }
           ]
         },
