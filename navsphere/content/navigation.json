@@ -857,19 +857,19 @@
               "enabled": true
             },
             {
-              "id": "site_1755073652507_mdd5r3ng2",
-              "title": "电影先生",
-              "href": "https://dyxs11.com/",
-              "description": "电影先生聚合全网影片，你想看的全都有！电影先生每天搜集互联网最新电影和电视剧，为广大用户免费提供无广告在线观看电影和电视剧服务，及时收录最新、最热、最全的电影大片,高清正版免费看。",
-              "icon": "/assets/favicon_1755073642621.png",
-              "enabled": true
-            },
-            {
               "id": "site_1755073711848_dk00cvzoz",
               "title": "HDmoli - 高品质在线影视资源",
               "href": "https://www.hdmoli.pro/",
               "description": "HDMOLI 提供免费、高品质、同时支持电脑和移动设备的影视剧在线观看网站",
               "icon": "/assets/favicon_1755073701401.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1755073652507_mdd5r3ng2",
+              "title": "电影先生",
+              "href": "https://dyxs11.com/",
+              "description": "电影先生聚合全网影片，你想看的全都有！电影先生每天搜集互联网最新电影和电视剧，为广大用户免费提供无广告在线观看电影和电视剧服务，及时收录最新、最热、最全的电影大片,高清正版免费看。",
+              "icon": "/assets/favicon_1755073642621.png",
               "enabled": true
             },
             {
