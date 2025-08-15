@@ -903,6 +903,14 @@
               "description": "免费在线观看高棉语、泰语、韩语、中文和好莱坞电影。在 Vivamax、Netflix、Disney+、Prime Video 等平台上观看，并附带英语和高棉语字幕！",
               "icon": "/assets/favicon_1755134058588.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755228744282_l06vuk95i",
+              "title": "247看 - 随时随地，想看就看",
+              "href": "https://247kan.com/",
+              "description": "247看 - 免费在线高清影视平台，提供最新电影、电视剧、动漫和综艺节目。1080P蓝光画质，无广告播放，支持手机观看。随时随地，想看就看。",
+              "icon": "/assets/favicon_1755228733802.ico",
+              "enabled": true
             }
           ]
         },
