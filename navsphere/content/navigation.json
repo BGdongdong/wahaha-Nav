@@ -992,6 +992,14 @@
               "description": "Hear the difference! Top royalty free music freshly composed by independent artists. Use our royalty free music for YouTube videos, social media, films,...",
               "icon": "/assets/favicon_1755246698190.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755246781744_7cd9rkl1j",
+              "title": " Foreignrap",
+              "href": "https://foreignrap.com/?song=6ujWSdFQTjwTTm7LPh9no1&selection=latest",
+              "description": "FOREIGNRAP IS THE #1 SPOT TO DISCOVER & ENJOY INTERNATIONAL RAP MUSIC.",
+              "icon": "/assets/favicon_1755246763985.png",
+              "enabled": true
             }
           ]
         },
