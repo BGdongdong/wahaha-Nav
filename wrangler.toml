@@ -8,8 +8,9 @@ pages_build_output_dir = ".vercel/output/static"
 [env.production.vars]
 GITHUB_ID = "Ov23liuCUtf8Gwscn2Da"
 GITHUB_OWNER = "BGdongdong"
-GITHUB_REPO = "wahaha-nav"
+GITHUB_REPO = "wahaha-Nav"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://wahaha-nav.pages.dev/api/auth"
 NEXT_PUBLIC_API_URL="https://wahaha-nav.pages.dev/"
+
 
