@@ -976,7 +976,16 @@
           "icon": "Music",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755245785061_xszcmh0fs",
+              "title": "熊猫DJ音乐网",
+              "href": "https://www.djcscs.com/index.php?uid=102271",
+              "description": "熊猫DJ城市串烧舞曲网原来是桂林漫音DJ网，现发展定位为车载串烧DJ舞曲音乐网。专业DJ为DJ城市歌曲提供精心制作高音质原创DJ舞曲音乐，包括车载汽车音响音乐、夜店酒吧慢摇、dj电音视频等各类劲爆混音舞曲电子音乐。",
+              "icon": "https://www.djcscs.com//app/templates/default//images/header/zb.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "210502d6-32b7-4651-9d3c-aa34d01cf045",
