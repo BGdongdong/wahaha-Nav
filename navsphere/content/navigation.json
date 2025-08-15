@@ -1050,6 +1050,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "3bb07276-0fa4-48d4-b4ad-661e7e438c59",
+          "title": "娱乐资讯",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
