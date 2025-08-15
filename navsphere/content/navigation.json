@@ -1000,6 +1000,14 @@
               "description": "FOREIGNRAP IS THE #1 SPOT TO DISCOVER & ENJOY INTERNATIONAL RAP MUSIC.",
               "icon": "/assets/favicon_1755246763985.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755246845594_h1pcrr7r2",
+              "title": "伊什库尔的电子音乐指南",
+              "href": "https://music.ishkur.com/",
+              "description": "伊什库尔的电子音乐指南",
+              "icon": "/assets/favicon_1755246809953.png",
+              "enabled": true
             }
           ]
         },
