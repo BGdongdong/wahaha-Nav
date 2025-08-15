@@ -911,6 +911,14 @@
               "description": "247看 - 免费在线高清影视平台，提供最新电影、电视剧、动漫和综艺节目。1080P蓝光画质，无广告播放，支持手机观看。随时随地，想看就看。",
               "icon": "/assets/favicon_1755228733802.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755242007382_vib0c6npd",
+              "title": "王子TV",
+              "href": "https://www.161516.xyz/",
+              "description": "访问 www.161516.xyz",
+              "icon": "/assets/favicon_1755241985335.png",
+              "enabled": true
             }
           ]
         },
