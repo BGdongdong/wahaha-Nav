@@ -41,7 +41,7 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
   }
 
   const renderIcon = (iconName?: string) => {
-    if (!iconName) return <LucideIcons.Folder className="h-4 w-4" />;
+    if (!iconName) return <LucideIcons.Folder className="h-10 w-10" />;
 
     if (iconName.startsWith('/') || iconName.startsWith('http')) {
       return (
@@ -50,14 +50,14 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
           alt="icon"
           width={16}
           height={16}
-          className="h-4 w-4"
+          className="h-10 w-10"
         />
       );
     }
 
     // Convert icon name to match Lucide icon component name
     const IconComponent = (LucideIcons as any)[iconName] || LucideIcons.Folder;
-    return <IconComponent className="h-4 w-4" />;
+    return <IconComponent className="h-10 w-10" />;
   }
 
   // 使用对象存储每个分类的展开状态
