@@ -987,30 +987,6 @@
           "items": []
         },
         {
-          "id": "26debc18-12f6-49d5-832d-ab3bae0c0dc9",
-          "title": "游戏平台",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "3be7d2fc-9428-4c2a-bb94-cc49e455e9e0",
-          "title": "在线游戏",
-          "icon": "Palette",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "3bb07276-0fa4-48d4-b4ad-661e7e438c59",
-          "title": "娱乐资讯",
-          "icon": "Globe",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "210502d6-32b7-4651-9d3c-aa34d01cf045",
           "title": "影视下载",
           "icon": "Video",
@@ -1058,6 +1034,30 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "26debc18-12f6-49d5-832d-ab3bae0c0dc9",
+          "title": "游戏平台",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "3be7d2fc-9428-4c2a-bb94-cc49e455e9e0",
+          "title": "在线游戏",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "3bb07276-0fa4-48d4-b4ad-661e7e438c59",
+          "title": "娱乐资讯",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
