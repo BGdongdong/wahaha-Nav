@@ -927,6 +927,14 @@
               "description": "提供最新最快的视频分享数据",
               "icon": "/assets/favicon_1755242038186.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755242663526_nfcbep3lu",
+              "title": "金牌影院",
+              "href": "https://www.nmzkzk.com/",
+              "description": "访问 www.nmzkzk.com",
+              "icon": "/assets/favicon_1755242637159.png",
+              "enabled": true
             }
           ]
         },
