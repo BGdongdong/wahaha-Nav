@@ -1024,6 +1024,14 @@
               "description": "美剧天堂",
               "icon": "/assets/favicon_1755244675069.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755245404999_i3od3zhh0",
+              "title": "电影街",
+              "href": "https://dyjie.net/",
+              "description": "高清影视资源 BT 下载",
+              "icon": "/assets/favicon_1755245388730.png",
+              "enabled": true
             }
           ]
         },
