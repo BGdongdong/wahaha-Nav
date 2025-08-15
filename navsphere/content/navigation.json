@@ -967,6 +967,14 @@
               "description": "五五影院提供最新的手机电影,电视剧,午夜伦理电影免费在线观看,55影视光棍网真不卡",
               "icon": "/assets/favicon_1755243332395.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755244922488_exkll03jz",
+              "title": "电影推荐-Mvcat",
+              "href": "https://www.mvcat.com/",
+              "description": "访问 www.mvcat.com",
+              "icon": "/assets/favicon_1755244895065.png",
+              "enabled": true
             }
           ]
         },
