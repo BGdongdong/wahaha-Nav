@@ -978,6 +978,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "site_1755246984508_2n67wr8yl",
+              "title": "雨天心情",
+              "href": "https://www.rainymood.com/",
+              "description": "Welcome to Rainy Mood, the internet",
+              "icon": "/assets/favicon_1755246924361.png",
+              "enabled": true
+            },
+            {
               "id": "site_1755245785061_xszcmh0fs",
               "title": "熊猫DJ音乐网",
               "href": "https://www.djcscs.com/index.php?uid=102271",
@@ -1023,14 +1031,6 @@
               "href": "https://www.missevan.com/",
               "description": "M站(猫耳FM)是第一家弹幕音图站,同时也是中国声优基地,在这里可以听电台,音乐,翻唱,小说和广播剧,用二次元声音连接三次元.",
               "icon": "/assets/favicon_1755246897773.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1755246984508_2n67wr8yl",
-              "title": "雨天心情",
-              "href": "https://www.rainymood.com/",
-              "description": "Welcome to Rainy Mood, the internet",
-              "icon": "/assets/favicon_1755246924361.png",
               "enabled": true
             },
             {
