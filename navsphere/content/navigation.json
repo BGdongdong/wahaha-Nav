@@ -959,6 +959,14 @@
               "description": "在线观影",
               "icon": "/assets/favicon_1755243159206.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755243247920_r9vix0wp4",
+              "title": "七味网",
+              "href": "https://www.qmp4.com/",
+              "description": "在线观影",
+              "icon": "/assets/favicon_1755243228494.png",
+              "enabled": true
             }
           ]
         },
