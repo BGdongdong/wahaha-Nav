@@ -1032,6 +1032,14 @@
               "description": "Welcome to Rainy Mood, the internet",
               "icon": "/assets/favicon_1755246924361.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755247033885_ln1vtuoq5",
+              "title": "tree.fm",
+              "href": "https://www.tree.fm/",
+              "description": "探索世界各地的森林，逃离喧嚣，放松身心，守护自然。",
+              "icon": "/assets/favicon_1755247000220.png",
+              "enabled": true
             }
           ]
         },
