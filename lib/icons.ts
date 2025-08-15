@@ -1,4 +1,26 @@
 import { 
+  Smile,
+  Bookmark,
+  Youtube,
+  Camera,
+  Send,
+  Monitor,
+  Paperclip,
+  Bot,
+  Gamepad2,
+  Headphones,
+  Club,
+  Atom,
+  Leaf,
+  Sun,
+  ShieldPlus,
+  ShoppingBag,
+  Flower,
+  BriefcaseBusiness,
+  Plane,
+  Droplet,
+  House,
+  Crown,
   Folder,
   FolderOpen,
   Home,
@@ -40,7 +62,7 @@ import {
   Zap,
   Heart,
   Coffee,
-  Palette
+  Palette,
 } from 'lucide-react'
 
 export const navigationIcons = {
@@ -108,7 +130,29 @@ export const navigationIcons = {
   Search,
   Zap,
   Heart,
-  Coffee
+  Coffee,
+  Crown,
+  House,
+  Youtube,
+  Camera,
+  Send,
+  Monitor,
+  Paperclip,
+  Bot,
+  Gamepad2,
+  Headphones,
+  Club,
+  Atom,
+  Leaf,
+  Sun,
+  ShieldPlus,
+  ShoppingBag,
+  Flower,
+  BriefcaseBusiness,
+  Plane,
+  Droplet,
+  Smile,
+  Bookmark
 }
 
 export type IconType = keyof typeof navigationIcons
