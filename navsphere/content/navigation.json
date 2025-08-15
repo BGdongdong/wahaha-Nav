@@ -1048,6 +1048,14 @@
               "description": "布谷音乐网-在线音乐-无损音乐免费下载",
               "icon": "https://www.buguyy.top/vite.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1755247425694_del3p41hf",
+              "title": "米兔音乐",
+              "href": "https://www.qqmp3.vip/",
+              "description": "米兔音乐是一款免费试听的在线音乐播放器，我们还提供高品质Mp3、FLAC、WAV等格式下载。",
+              "icon": "/assets/favicon_1755247417775.png",
+              "enabled": true
             }
           ]
         },
