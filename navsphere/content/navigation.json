@@ -889,19 +889,19 @@
               "enabled": true
             },
             {
-              "id": "site_1755073680321_tx7g8i7dj",
-              "title": "低端影视",
-              "href": "https://ddys.pro/",
-              "description": "超清在线视频",
-              "icon": "/assets/favicon_1755073669706.png",
-              "enabled": true
-            },
-            {
               "id": "site_1755073871872_oe5ow670b",
               "title": "大米星球",
               "href": "https://www.dmukq.art/",
               "description": "",
               "icon": "/assets/favicon_1755228585016.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1755073680321_tx7g8i7dj",
+              "title": "低端影视",
+              "href": "https://ddys.pro/",
+              "description": "超清在线视频",
+              "icon": "/assets/favicon_1755073669706.png",
               "enabled": true
             },
             {
