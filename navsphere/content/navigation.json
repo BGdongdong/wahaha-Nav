@@ -1016,6 +1016,14 @@
               "description": "5sing音乐，数字音乐网站，汇集了大量的网络歌手的原创音乐歌曲及翻唱歌曲，提供大量歌曲的伴奏以及歌词免费下载，将喜爱的音乐或者歌曲作为手机彩铃下载",
               "icon": "/assets/favicon_1755246871429.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755246908716_vh14i8a4b",
+              "title": "猫耳FM",
+              "href": "https://www.missevan.com/",
+              "description": "M站(猫耳FM)是第一家弹幕音图站,同时也是中国声优基地,在这里可以听电台,音乐,翻唱,小说和广播剧,用二次元声音连接三次元.",
+              "icon": "/assets/favicon_1755246897773.ico",
+              "enabled": true
             }
           ]
         },
