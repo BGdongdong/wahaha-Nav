@@ -1032,6 +1032,14 @@
               "description": "",
               "icon": "/assets/favicon_1755244590138.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755244710769_jxh0gb23x",
+              "title": "美剧天堂",
+              "href": "https://www.imeijutt.tv/",
+              "description": "美剧天堂",
+              "icon": "/assets/favicon_1755244675069.ico",
+              "enabled": true
             }
           ]
         }
