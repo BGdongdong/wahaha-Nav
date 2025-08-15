@@ -849,6 +849,14 @@
               "enabled": true
             },
             {
+              "id": "site_1755135883999_m0fe4i364",
+              "title": "毒舌电影",
+              "href": "https://www.dushe1.app/",
+              "description": "毒舌电影-dushe.app-看电影，可以改变人生！奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
+              "icon": "/assets/favicon_1755135871444.ico",
+              "enabled": true
+            },
+            {
               "id": "site_1755073652507_mdd5r3ng2",
               "title": "电影先生",
               "href": "https://dyxs11.com/",
@@ -862,14 +870,6 @@
               "href": "https://www.hdmoli.pro/",
               "description": "HDMOLI 提供免费、高品质、同时支持电脑和移动设备的影视剧在线观看网站",
               "icon": "/assets/favicon_1755073701401.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1755135883999_m0fe4i364",
-              "title": "毒舌电影",
-              "href": "https://www.dushe1.app/",
-              "description": "毒舌电影-dushe.app-看电影，可以改变人生！奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
-              "icon": "/assets/favicon_1755135871444.ico",
               "enabled": true
             },
             {
