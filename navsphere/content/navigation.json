@@ -1008,6 +1008,14 @@
               "description": "伊什库尔的电子音乐指南",
               "icon": "/assets/favicon_1755246809953.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755246877002_86woyvk1p",
+              "title": "5sing音乐",
+              "href": "https://5sing.kugou.com/index.html",
+              "description": "5sing音乐，数字音乐网站，汇集了大量的网络歌手的原创音乐歌曲及翻唱歌曲，提供大量歌曲的伴奏以及歌词免费下载，将喜爱的音乐或者歌曲作为手机彩铃下载",
+              "icon": "/assets/favicon_1755246871429.png",
+              "enabled": true
             }
           ]
         },
