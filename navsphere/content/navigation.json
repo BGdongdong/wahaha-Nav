@@ -935,6 +935,14 @@
               "description": "访问 www.nmzkzk.com",
               "icon": "/assets/favicon_1755242637159.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755242764728_di9xpjtly",
+              "title": "Netflix",
+              "href": "https://www.netflix.com/hk/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse",
+              "description": "線上觀賞 Netflix（網飛）電影與節目，或直接串流至智慧型電視、遊戲機、PC、Mac、手機、平板電腦等多種裝置。",
+              "icon": "/assets/favicon_1755242747695.ico",
+              "enabled": true
             }
           ]
         },
