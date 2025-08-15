@@ -919,6 +919,14 @@
               "description": "访问 www.161516.xyz",
               "icon": "/assets/favicon_1755241985335.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755242052286_863wnrhiu",
+              "title": "玖玖电影-免费的休闲网站",
+              "href": "https://www.99dy.vip/",
+              "description": "提供最新最快的视频分享数据",
+              "icon": "/assets/favicon_1755242038186.png",
+              "enabled": true
             }
           ]
         },
