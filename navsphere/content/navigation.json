@@ -1064,6 +1064,14 @@
               "description": "米兔音乐是一款免费试听的在线音乐播放器，我们还提供高品质Mp3、FLAC、WAV等格式下载。",
               "icon": "/assets/favicon_1755247417775.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755248136637_dml1bwtew",
+              "title": "无损生活 - 全网无损音乐免费下载，音乐搜索,音乐在线试听,下载,在线解析网",
+              "href": "https://flac.life/",
+              "description": "",
+              "icon": "/assets/favicon_1755248130588.png",
+              "enabled": true
             }
           ]
         },
