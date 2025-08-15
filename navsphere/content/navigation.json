@@ -1041,6 +1041,14 @@
               "description": "访问 www.mvcat.com",
               "icon": "/assets/favicon_1755244895065.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755245156147_cv3qfbf3u",
+              "title": "PDORO - 全球優秀影視作品庫",
+              "href": "https://www.pdoro.com/",
+              "description": "全球優秀影視作品庫",
+              "icon": "/assets/favicon_1755245148668.png",
+              "enabled": true
             }
           ]
         },
