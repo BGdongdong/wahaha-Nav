@@ -975,6 +975,14 @@
               "description": "在线观影",
               "icon": "/assets/favicon_1755243292657.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755243346519_qctze3t97",
+              "title": "五五影院",
+              "href": "https://wcvod.com/",
+              "description": "五五影院提供最新的手机电影,电视剧,午夜伦理电影免费在线观看,55影视光棍网真不卡",
+              "icon": "/assets/favicon_1755243332395.png",
+              "enabled": true
             }
           ]
         },
