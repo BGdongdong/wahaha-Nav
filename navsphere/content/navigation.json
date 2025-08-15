@@ -951,6 +951,14 @@
               "description": "访问 www.nmzkzk.com",
               "icon": "/assets/favicon_1755242637159.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755243174878_6bo19lo3b",
+              "title": "555电影",
+              "href": "https://www.wuwu6ck.shop/index/home.html",
+              "description": "在线观影",
+              "icon": "/assets/favicon_1755243159206.png",
+              "enabled": true
             }
           ]
         },
