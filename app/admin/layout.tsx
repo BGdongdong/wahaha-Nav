@@ -5,7 +5,7 @@ import { Toaster } from "@/registry/new-york/ui/toaster"
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'wahaha',
+  title: '哇哈哈',
   description: 'wahaha Admin Dashboard',
   icons: {
     icon: '/assets/images/favicon.png',
