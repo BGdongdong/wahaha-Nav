@@ -1000,7 +1000,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755244226257_zh23md034",
+              "title": "音范丝 | 精选4K蓝光原盘下载,顶级收藏",
+              "href": "https://www.yinfans.me/",
+              "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
+              "icon": "/assets/favicon_1755244213216.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
