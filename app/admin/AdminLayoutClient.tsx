@@ -69,9 +69,6 @@ const menuItems = [
       {
         title: "资源管理",
         href: "/admin/resources"
-      },{
-        title: "网站图标下载",
-        href: "/admin/resources/download"
       }
     ]
   },
@@ -152,7 +149,7 @@ export function AdminLayoutClient({ children, user }: AdminLayoutClientProps) {
                           {!isSidebarCollapsed && (
                             <div className="flex flex-col">
                               <span className="text-lg font-semibold leading-none tracking-tight">
-                                NavSphere
+                                wahaha
                               </span>
                               <span className="text-xs text-muted-foreground mt-1">
                                 管理控制台
