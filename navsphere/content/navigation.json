@@ -500,7 +500,16 @@
           "icon": "Image",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755481110238_i4or19i5o",
+              "title": "Worldvectorlogo",
+              "href": "https://worldvectorlogo.com/zh",
+              "description": "世界矢量标志具有最大的 SVG logo vector 收藏。所有标志都工作与 EPS、 AI、 PSD 和 Adobe PDF。没有帐户和无限的下载免费。",
+              "icon": "/assets/favicon_1755481072801.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4282e8ef-c441-4e08-addc-1517478125d2",
