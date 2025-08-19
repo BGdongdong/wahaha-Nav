@@ -726,6 +726,14 @@
               "description": "Get coolest handpicked gradient colors collection palette for your next project, alternatively copy css or download as image too.",
               "icon": "https://webkul.github.io/images/coolhue-logo.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755571507524_3tzhk4bec",
+              "title": "color.adobe.com",
+              "href": "https://color.adobe.com/zh/",
+              "description": "",
+              "icon": "/assets/favicon_1755571499774.png",
+              "enabled": true
             }
           ],
           "enabled": true
