@@ -425,6 +425,14 @@
               "description": "访问 www.ghxi.com",
               "icon": "/assets/favicon_1755240210620.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755570809734_d7jg7nrse",
+              "title": "多多软件站",
+              "href": "https://www.ddooo.com/",
+              "description": "访问 www.ddooo.com",
+              "icon": "/assets/favicon_1755570766150.png",
+              "enabled": true
             }
           ]
         },
