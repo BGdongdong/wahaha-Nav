@@ -670,6 +670,14 @@
               "description": "中国传统颜色网站，提供各种中国传统颜色的名称，CMYK值，RGB值，16进制表示。 ",
               "icon": "/assets/favicon_1755078178160.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755570963053_udw2qmzqk",
+              "title": "中国传统颜色手册",
+              "href": "https://colors.ichuantong.cn/",
+              "description": "全网最全的中国传统颜色数据库，包含600+国风色卡精准色值、命名由来与使用场景。一键获取CMYK/RGB/HEX色彩代码，提升设计效率与专业度。中国色，中国风，中国传统颜色，设计，Chinese color cheat sheet online",
+              "icon": "/assets/favicon_1755570946371.png",
+              "enabled": true
             }
           ],
           "enabled": true
