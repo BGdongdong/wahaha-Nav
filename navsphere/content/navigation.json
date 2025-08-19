@@ -710,6 +710,14 @@
               "description": "Generate beautiful color palettes for your design system.",
               "icon": "/assets/favicon_1755571212267.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755571244693_2tfr2xndq",
+              "title": "Online-tool",
+              "href": "https://online-tool.cn/tool/color",
+              "description": "访问 online-tool.cn",
+              "icon": "/assets/favicon_1755571236681.png",
+              "enabled": true
             }
           ],
           "enabled": true
