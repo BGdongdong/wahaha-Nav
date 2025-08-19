@@ -678,6 +678,14 @@
               "description": "全网最全的中国传统颜色数据库，包含600+国风色卡精准色值、命名由来与使用场景。一键获取CMYK/RGB/HEX色彩代码，提升设计效率与专业度。中国色，中国风，中国传统颜色，设计，Chinese color cheat sheet online",
               "icon": "/assets/favicon_1755570946371.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755571079875_w14on57z8",
+              "title": "NIPPON COLORS - 日本の伝統色",
+              "href": "https://nipponcolors.com/#momo",
+              "description": "The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.",
+              "icon": "/assets/favicon_1755571069252.ico",
+              "enabled": true
             }
           ],
           "enabled": true
