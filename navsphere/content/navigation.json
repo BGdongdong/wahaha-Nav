@@ -702,6 +702,14 @@
               "description": "利用我们的颜色选择器、色轮、颜色表和 HTML 颜色名称获取 HTML 颜色代码、Hex 颜色代码、RGB、HSL 以及 OKLCH 数值。开始吧！",
               "icon": "/assets/favicon_1755571171848.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755571219104_mkkle03nm",
+              "title": "Color Generator – Kigen",
+              "href": "https://kigen.design/color",
+              "description": "Generate beautiful color palettes for your design system.",
+              "icon": "/assets/favicon_1755571212267.ico",
+              "enabled": true
             }
           ],
           "enabled": true
