@@ -686,6 +686,14 @@
               "description": "The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.",
               "icon": "/assets/favicon_1755571069252.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755571126287_801b8eodw",
+              "title": "色卡",
+              "href": "https://www.qtccolor.com/",
+              "description": "访问 www.qtccolor.com",
+              "icon": "/assets/favicon_1755571109918.png",
+              "enabled": true
             }
           ],
           "enabled": true
