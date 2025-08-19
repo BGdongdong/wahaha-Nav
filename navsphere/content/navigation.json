@@ -718,6 +718,14 @@
               "description": "访问 online-tool.cn",
               "icon": "/assets/favicon_1755571236681.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755571380685_954y3nc8t",
+              "title": "CoolHue 2.0",
+              "href": "https://webkul.github.io/coolhue/",
+              "description": "Get coolest handpicked gradient colors collection palette for your next project, alternatively copy css or download as image too.",
+              "icon": "https://webkul.github.io/images/coolhue-logo.png",
+              "enabled": true
             }
           ],
           "enabled": true
