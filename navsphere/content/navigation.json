@@ -516,6 +516,14 @@
               "description": "世界矢量标志具有最大的 SVG logo vector 收藏。所有标志都工作与 EPS、 AI、 PSD 和 Adobe PDF。没有帐户和无限的下载免费。",
               "icon": "/assets/favicon_1755481072801.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755591982481_6xj2fyv86",
+              "title": "The Thiings Collection",
+              "href": "https://www.thiings.co/things",
+              "description": "A growing collection of 6000+ free 3D icons, generated with AI. Perfect for designers and creative projects.",
+              "icon": "/assets/favicon_1755591973563.png",
+              "enabled": true
             }
           ]
         },
