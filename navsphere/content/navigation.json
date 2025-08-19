@@ -734,6 +734,14 @@
               "description": "",
               "icon": "/assets/favicon_1755571499774.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755571531866_2vdzl4v6f",
+              "title": "Mycolor",
+              "href": "https://mycolor.space/",
+              "description": "访问 mycolor.space",
+              "icon": "/assets/favicon_1755571525911.png",
+              "enabled": true
             }
           ],
           "enabled": true
