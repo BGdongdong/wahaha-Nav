@@ -162,6 +162,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "85ec1064-3c2d-47de-bc67-3c143767e950",
+          "title": "常用工具",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
