@@ -169,7 +169,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756885280008_y5sxko5zm",
+              "title": "docsmall - 免费的在线图片、PDF处理工具",
+              "href": "https://docsmall.com/",
+              "description": "docsmall 提供免费的在线图片、GIF、PDF处理，包括图片压缩、裁剪、改尺寸，PDF合并、分割、压缩、页面调整等功能。",
+              "icon": "/assets/favicon_1756885267096.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
