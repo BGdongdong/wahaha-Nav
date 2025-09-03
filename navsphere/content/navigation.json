@@ -916,14 +916,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "d64e901c-332d-4235-b49d-176c44ca8419",
-          "title": "常用工具",
-          "icon": "Box",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
