@@ -897,6 +897,14 @@
               "description": "在线协作白板",
               "icon": "/assets/favicon_1756969589158.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756971079291_2l2t8ey1b",
+              "title": "在线 PDF 编辑 - 100% 免费",
+              "href": "https://onlinepdfedit.com/zh-cn/",
+              "description": "在线转换和编辑 PDF。合并、填写表格、签名等,无需下载或安装。便捷的 PDF 文档编辑变得简单",
+              "icon": "/assets/favicon_1756971070364.ico",
+              "enabled": true
             }
           ],
           "enabled": true
