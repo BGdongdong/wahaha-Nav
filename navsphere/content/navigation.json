@@ -507,6 +507,14 @@
               "description": "我们的数据库包含超过 9298457 个 PDF 文件，并且每天都在增长！只需在搜索栏中输入关键词，即可找到您想要的内容！搜索结果包括手册名称、描述、大小和页数。您可以在线阅读手册，也可以将其下载到电脑上。此外，文档还可以分享到社交网络。欢迎！",
               "icon": "/assets/favicon_1756953547140.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756956254224_nvf2efxr2",
+              "title": "Wepe",
+              "href": "https://www.wepe.com.cn/",
+              "description": "访问 www.wepe.com.cn",
+              "icon": "/assets/favicon_1756956243842.png",
+              "enabled": true
             }
           ]
         },
