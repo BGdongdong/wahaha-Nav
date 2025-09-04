@@ -785,6 +785,14 @@
               "description": "访问 boardos.online",
               "icon": "/assets/favicon_1756975909085.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756977576263_20wzt1dto",
+              "title": "Duotone by ShapeFactory",
+              "href": "https://duotone.shapefactory.co/?f=da064e&t=1867c6",
+              "description": "Find beautiful free duotone images to use in any project, or make custom duotone images by uploading your own image and applying a duotone effect in seconds.",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=duotone.shapefactory.co",
+              "enabled": true
             }
           ],
           "enabled": true
