@@ -777,6 +777,14 @@
               "description": "访问 www.pdfpai.com",
               "icon": "/assets/favicon_1756975740747.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756975914780_k06txd4hx",
+              "title": "Boardos",
+              "href": "https://boardos.online/",
+              "description": "访问 boardos.online",
+              "icon": "/assets/favicon_1756975909085.png",
+              "enabled": true
             }
           ],
           "enabled": true
