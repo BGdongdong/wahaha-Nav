@@ -737,6 +737,14 @@
               "description": "使用免费在线 PDF 工具包 PDF Candy 处理 PDF 文件。编辑 PDF、将 PDF 转换为 Word、将 PDF 转换为 JPG、合并和分割 PDF、压缩 PDF 等。",
               "icon": "/assets/favicon_1756972279485.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756972484009_fxna9842w",
+              "title": "Stirling PDF",
+              "href": "https://stirlingpdf.io/?lang=zh_CN",
+              "description": "Stirling PDF",
+              "icon": "/assets/favicon_1756972477068.png",
+              "enabled": true
             }
           ],
           "enabled": true
