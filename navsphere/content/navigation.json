@@ -769,6 +769,14 @@
               "description": "访问 www.picdoc.cn",
               "icon": "/assets/favicon_1756975509347.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756975747408_m28su6gjr",
+              "title": "Pdfpai",
+              "href": "https://www.pdfpai.com/",
+              "description": "访问 www.pdfpai.com",
+              "icon": "/assets/favicon_1756975740747.png",
+              "enabled": true
             }
           ],
           "enabled": true
