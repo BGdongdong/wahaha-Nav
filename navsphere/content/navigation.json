@@ -721,6 +721,14 @@
               "description": "访问 mineru.net",
               "icon": "/assets/favicon_1756971828496.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756972084162_eauks8h1d",
+              "title": "文件解压缩",
+              "href": "https://cn.fileunzip.com/",
+              "description": "在线压缩和缩小 PDF、图像、JPG、CSS、JS、JSON 和 Zip 文件。 轻松免费在线压缩和优化各种文件。",
+              "icon": "/assets/favicon_1756972063637.png",
+              "enabled": true
             }
           ],
           "enabled": true
