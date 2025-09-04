@@ -745,6 +745,14 @@
               "description": "Stirling PDF",
               "icon": "/assets/favicon_1756972477068.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756973367755_5fg22s4d1",
+              "title": "iLovePDF | 为PDF爱好者提供的PDF文件在线处理工具",
+              "href": "https://www.ilovepdf.com/zh-cn",
+              "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
+              "icon": "/assets/favicon_1756973357607.png",
+              "enabled": true
             }
           ],
           "enabled": true
