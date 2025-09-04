@@ -612,6 +612,112 @@
       "items": [],
       "subCategories": [
         {
+          "id": "3",
+          "title": "在线工具",
+          "href": "#在线工具",
+          "icon": "Folder",
+          "description": "",
+          "items": [
+            {
+              "id": "1754623598996",
+              "title": "U钙网",
+              "href": "https://www.uugai.com/",
+              "description": "智能AI商标logo设计，100%U钙网原创，无论你董不懂设计,仅需输入文字，您就可以自助设计出专业、精美的LOGO,无限制免费下载，十几年专业专注智能LOGO设计，服务用户已超千万",
+              "icon": "/assets/favicon_1754623603048.ico",
+              "enabled": true
+            },
+            {
+              "id": "3_1",
+              "title": "TableConvert",
+              "href": "https://tableconvert.com/",
+              "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
+              "icon": "/assets/images/logos/tableconvert.png",
+              "enabled": true
+            },
+            {
+              "id": "3_2",
+              "title": "JSON Editor Online",
+              "href": "https://jsoneditoronline.org/",
+              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
+              "icon": "/assets/images/logos/json.png",
+              "enabled": true
+            },
+            {
+              "id": "3_3",
+              "title": "Beautifier",
+              "href": "https://beautifier.io/",
+              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
+              "icon": "/assets/images/logos/beautifier.png",
+              "enabled": true
+            },
+            {
+              "id": "3_4",
+              "title": "SQL格式化",
+              "href": "https://www.dpriver.com/pp/sqlformat.htm",
+              "description": "在线美化SQL语句的工具，格式化方便阅读",
+              "icon": "/assets/images/logos/sqlformat.ico",
+              "enabled": true
+            },
+            {
+              "id": "3_5",
+              "title": "TinyPNG",
+              "href": "https://tinypng.com/",
+              "description": "在线图片压缩工具",
+              "icon": "/assets/images/logos/tinypng.png",
+              "enabled": true
+            },
+            {
+              "id": "1735256523960",
+              "title": "ScreenShots.pro",
+              "href": "https://screenshots.pro/",
+              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
+              "icon": "/assets/img_1735258064656.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1755072892048_ahhksz9ok",
+              "title": "在线屏幕测试",
+              "href": "https://lab.luozhinet.com/tool/screentest/",
+              "description": "免费在线屏幕测试工具，汇集专业的屏幕测试环节，对您的显示设备做一次全面的体检。",
+              "icon": "https://lab.luozhinet.com/./htmlimg/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1755072921408_7e4douroy",
+              "title": "ScreenX 屏幕测试",
+              "href": "https://screenx.hecara.com/",
+              "description": "ScreenX 屏幕测试是一款永久免费、无广告的专业屏幕测试工具，支持显示器坏点检测、漏光测试、对比度测试、色彩测试等功能。无需下载安装，一键开始测试，快速检测您的显示器质量。",
+              "icon": "/assets/favicon_1755072907356.svg",
+              "enabled": true
+            },
+            {
+              "id": "site_1756969327800_y65cam8d9",
+              "title": "draw.io-在线图表",
+              "href": "https://www.drawio.com/",
+              "description": "将您的存储带到我们的在线工具，或使用桌面应用程序在本地保存。",
+              "icon": "/assets/favicon_1756969279132.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1756969618639_0mk6921z3",
+              "title": "www.xiaohuazhuo.com",
+              "href": "https://www.xiaohuazhuo.com/",
+              "description": "在线协作白板",
+              "icon": "/assets/favicon_1756969589158.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756971079291_2l2t8ey1b",
+              "title": "在线 PDF 编辑 - 100% 免费",
+              "href": "https://onlinepdfedit.com/zh-cn/",
+              "description": "在线转换和编辑 PDF。合并、填写表格、签名等,无需下载或安装。便捷的 PDF 文档编辑变得简单",
+              "icon": "/assets/favicon_1756971070364.ico",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
           "id": "4",
           "title": "图形创意",
           "href": "#图形创意",
@@ -798,112 +904,6 @@
               "href": "https://mycolor.space/",
               "description": "访问 mycolor.space",
               "icon": "/assets/favicon_1755571525911.png",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "3",
-          "title": "在线工具",
-          "href": "#在线工具",
-          "icon": "Folder",
-          "description": "",
-          "items": [
-            {
-              "id": "1754623598996",
-              "title": "U钙网",
-              "href": "https://www.uugai.com/",
-              "description": "智能AI商标logo设计，100%U钙网原创，无论你董不懂设计,仅需输入文字，您就可以自助设计出专业、精美的LOGO,无限制免费下载，十几年专业专注智能LOGO设计，服务用户已超千万",
-              "icon": "/assets/favicon_1754623603048.ico",
-              "enabled": true
-            },
-            {
-              "id": "3_1",
-              "title": "TableConvert",
-              "href": "https://tableconvert.com/",
-              "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
-              "icon": "/assets/images/logos/tableconvert.png",
-              "enabled": true
-            },
-            {
-              "id": "3_2",
-              "title": "JSON Editor Online",
-              "href": "https://jsoneditoronline.org/",
-              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
-              "icon": "/assets/images/logos/json.png",
-              "enabled": true
-            },
-            {
-              "id": "3_3",
-              "title": "Beautifier",
-              "href": "https://beautifier.io/",
-              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
-              "icon": "/assets/images/logos/beautifier.png",
-              "enabled": true
-            },
-            {
-              "id": "3_4",
-              "title": "SQL格式化",
-              "href": "https://www.dpriver.com/pp/sqlformat.htm",
-              "description": "在线美化SQL语句的工具，格式化方便阅读",
-              "icon": "/assets/images/logos/sqlformat.ico",
-              "enabled": true
-            },
-            {
-              "id": "3_5",
-              "title": "TinyPNG",
-              "href": "https://tinypng.com/",
-              "description": "在线图片压缩工具",
-              "icon": "/assets/images/logos/tinypng.png",
-              "enabled": true
-            },
-            {
-              "id": "1735256523960",
-              "title": "ScreenShots.pro",
-              "href": "https://screenshots.pro/",
-              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
-              "icon": "/assets/img_1735258064656.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1755072892048_ahhksz9ok",
-              "title": "在线屏幕测试",
-              "href": "https://lab.luozhinet.com/tool/screentest/",
-              "description": "免费在线屏幕测试工具，汇集专业的屏幕测试环节，对您的显示设备做一次全面的体检。",
-              "icon": "https://lab.luozhinet.com/./htmlimg/favicon.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1755072921408_7e4douroy",
-              "title": "ScreenX 屏幕测试",
-              "href": "https://screenx.hecara.com/",
-              "description": "ScreenX 屏幕测试是一款永久免费、无广告的专业屏幕测试工具，支持显示器坏点检测、漏光测试、对比度测试、色彩测试等功能。无需下载安装，一键开始测试，快速检测您的显示器质量。",
-              "icon": "/assets/favicon_1755072907356.svg",
-              "enabled": true
-            },
-            {
-              "id": "site_1756969327800_y65cam8d9",
-              "title": "draw.io-在线图表",
-              "href": "https://www.drawio.com/",
-              "description": "将您的存储带到我们的在线工具，或使用桌面应用程序在本地保存。",
-              "icon": "/assets/favicon_1756969279132.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1756969618639_0mk6921z3",
-              "title": "www.xiaohuazhuo.com",
-              "href": "https://www.xiaohuazhuo.com/",
-              "description": "在线协作白板",
-              "icon": "/assets/favicon_1756969589158.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1756971079291_2l2t8ey1b",
-              "title": "在线 PDF 编辑 - 100% 免费",
-              "href": "https://onlinepdfedit.com/zh-cn/",
-              "description": "在线转换和编辑 PDF。合并、填写表格、签名等,无需下载或安装。便捷的 PDF 文档编辑变得简单",
-              "icon": "/assets/favicon_1756971070364.ico",
               "enabled": true
             }
           ],
