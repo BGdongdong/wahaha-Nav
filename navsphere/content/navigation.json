@@ -881,6 +881,14 @@
               "description": "ScreenX 屏幕测试是一款永久免费、无广告的专业屏幕测试工具，支持显示器坏点检测、漏光测试、对比度测试、色彩测试等功能。无需下载安装，一键开始测试，快速检测您的显示器质量。",
               "icon": "/assets/favicon_1755072907356.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1756969327800_y65cam8d9",
+              "title": "draw.io-在线图表",
+              "href": "https://www.drawio.com/",
+              "description": "将您的存储带到我们的在线工具，或使用桌面应用程序在本地保存。",
+              "icon": "/assets/favicon_1756969279132.ico",
+              "enabled": true
             }
           ],
           "enabled": true
