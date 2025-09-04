@@ -729,6 +729,14 @@
               "description": "在线压缩和缩小 PDF、图像、JPG、CSS、JS、JSON 和 Zip 文件。 轻松免费在线压缩和优化各种文件。",
               "icon": "/assets/favicon_1756972063637.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756972287477_ni3tixfvw",
+              "title": "90+ 免费在线 PDF 工具 - PDF Candy",
+              "href": "https://pdfcandy.com/cn/",
+              "description": "使用免费在线 PDF 工具包 PDF Candy 处理 PDF 文件。编辑 PDF、将 PDF 转换为 Word、将 PDF 转换为 JPG、合并和分割 PDF、压缩 PDF 等。",
+              "icon": "/assets/favicon_1756972279485.ico",
+              "enabled": true
             }
           ],
           "enabled": true
