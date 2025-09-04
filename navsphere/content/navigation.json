@@ -761,6 +761,14 @@
               "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
               "icon": "/assets/favicon_1756973564071.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756975515677_b9rhn6vmw",
+              "title": "Picdoc",
+              "href": "https://www.picdoc.cn/",
+              "description": "访问 www.picdoc.cn",
+              "icon": "/assets/favicon_1756975509347.png",
+              "enabled": true
             }
           ],
           "enabled": true
