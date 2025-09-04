@@ -889,6 +889,14 @@
               "description": "将您的存储带到我们的在线工具，或使用桌面应用程序在本地保存。",
               "icon": "/assets/favicon_1756969279132.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756969618639_0mk6921z3",
+              "title": "www.xiaohuazhuo.com",
+              "href": "https://www.xiaohuazhuo.com/",
+              "description": "在线协作白板",
+              "icon": "/assets/favicon_1756969589158.png",
+              "enabled": true
             }
           ],
           "enabled": true
