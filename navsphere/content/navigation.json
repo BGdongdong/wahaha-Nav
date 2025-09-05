@@ -857,6 +857,14 @@
               "description": "Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.",
               "icon": "/assets/favicon_1757034867760.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757037362046_34di51hv5",
+              "title": "闪幕(ShineRoll) - 免费在线LED横幅生成器",
+              "href": "https://shineroll.toolooz.com/",
+              "description": "闪幕(ShineRoll) - 免费在线定制LED横幅生成器，创建炫彩文本和动画效果，支持多种字体、颜色和动画效果，无需设计经验即可制作专业级LED效果",
+              "icon": "/assets/favicon_1757037354237.svg",
+              "enabled": true
             }
           ],
           "enabled": true
