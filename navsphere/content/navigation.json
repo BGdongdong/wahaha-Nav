@@ -193,6 +193,14 @@
               "description": "访问 tool.lu",
               "icon": "/assets/favicon_1757036439624.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757038168209_kkewofvce",
+              "title": "Toolnb",
+              "href": "https://www.toolnb.com/",
+              "description": "访问 www.toolnb.com",
+              "icon": "/assets/favicon_1757038154050.png",
+              "enabled": true
             }
           ]
         }
