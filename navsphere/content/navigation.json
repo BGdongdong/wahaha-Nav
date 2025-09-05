@@ -881,6 +881,14 @@
               "description": "访问 tools.thatwind.com",
               "icon": "/assets/favicon_1757039469613.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757040921323_ip091ekxo",
+              "title": "A.Tools -Online Tools",
+              "href": "https://www.a.tools/",
+              "description": "A.Tools is a convenient and easy-to-use free online tools collection website. Here, you just need to open our website and then could access hundreds of awesome free online tools without downloading or installing them. These free online tools including Graphics & Images, Date & Time, Text & Characters, Encrypt & Decrypt, Programming & Design, Calculator & Converter, Finance & Investing, Daily Life & Health, Chart Generator and many other online tools.",
+              "icon": "/assets/favicon_1757040909592.ico",
+              "enabled": true
             }
           ],
           "enabled": true
