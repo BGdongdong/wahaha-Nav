@@ -809,6 +809,14 @@
               "description": "iLoveIMG是一款在线处理图片文件的网站。我们的服务完全免费，而且使用简便。网站的功能有：压缩图像文件、调整文件尺寸、裁剪文件，以及转换文件格式等！",
               "icon": "/assets/favicon_1757033914633.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757034032810_2ipt131pz",
+              "title": "Picdiet - 极速在线压缩80%图片体积",
+              "href": "https://www.picdiet.com/zh-cn",
+              "description": "Picdiet是一款用JavaScript编写而成的图片压缩神器，所有压缩过程都在浏览器中进行，完全免费",
+              "icon": "/assets/favicon_1757034024164.ico",
+              "enabled": true
             }
           ],
           "enabled": true
