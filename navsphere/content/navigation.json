@@ -897,6 +897,14 @@
               "description": "",
               "icon": "/assets/favicon_1757043933362.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757044208158_tq3x2nlw1",
+              "title": "在线免费的视频转gif工具",
+              "href": "https://www.mnggiflab.com/product/video-to-gif-old",
+              "description": "mnggiflab提供了在线免费的将视频转换为gif的功能,可以对视频进行剪辑,增加图片文字水印等动图特效",
+              "icon": "/assets/favicon_1757044201821.png",
+              "enabled": true
             }
           ],
           "enabled": true
