@@ -889,6 +889,14 @@
               "description": "A.Tools is a convenient and easy-to-use free online tools collection website. Here, you just need to open our website and then could access hundreds of awesome free online tools without downloading or installing them. These free online tools including Graphics & Images, Date & Time, Text & Characters, Encrypt & Decrypt, Programming & Design, Calculator & Converter, Finance & Investing, Daily Life & Health, Chart Generator and many other online tools.",
               "icon": "/assets/favicon_1757040909592.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757043988596_0ktfmjsuz",
+              "title": "PearOCR，在线图片转文字，免费OCR，在线图片文字提取，本地运算，无上传",
+              "href": "https://pearocr.com/?ref=www.jspoo.com#/",
+              "description": "",
+              "icon": "/assets/favicon_1757043933362.png",
+              "enabled": true
             }
           ],
           "enabled": true
