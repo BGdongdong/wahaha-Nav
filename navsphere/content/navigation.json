@@ -873,6 +873,14 @@
               "description": "闪幕(ShineRoll) - 免费在线定制LED横幅生成器，创建炫彩文本和动画效果，支持多种字体、颜色和动画效果，无需设计经验即可制作专业级LED效果",
               "icon": "/assets/favicon_1757037354237.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1757039477551_hbhldcd5b",
+              "title": "Tools",
+              "href": "https://tools.thatwind.com/",
+              "description": "访问 tools.thatwind.com",
+              "icon": "/assets/favicon_1757039469613.png",
+              "enabled": true
             }
           ],
           "enabled": true
