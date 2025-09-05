@@ -833,6 +833,14 @@
               "description": "免费在线批量压缩、调整大小和转换图片。批处理JPG、PNG、WebP文件 - 在保持质量的同时减少高达90%的大小。隐私优先，无需上传。",
               "icon": "/assets/favicon_1757034416488.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1757034799830_ic5c46lfr",
+              "title": "图片转文字 - 图片转Excel表格 - PDF转Word - 白描网页版",
+              "href": "https://web.baimiaoapp.com/",
+              "description": "",
+              "icon": "/assets/favicon_1757034793130.png",
+              "enabled": true
             }
           ],
           "enabled": true
