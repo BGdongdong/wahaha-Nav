@@ -793,6 +793,14 @@
               "description": "Find beautiful free duotone images to use in any project, or make custom duotone images by uploading your own image and applying a duotone effect in seconds.",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=duotone.shapefactory.co",
               "enabled": true
+            },
+            {
+              "id": "site_1757033565977_sikgqfwdt",
+              "title": "证件照大师 - 让证件照处理更简单",
+              "href": "https://id-photo.cn/",
+              "description": "证件照大师是一个专业的证件照在线处理网站，提供证件照换底色，证件照质量压缩，证件照合成等证件照处理，操作简单便捷，让证件照处理更简单。",
+              "icon": "/assets/favicon_1757033558191.ico",
+              "enabled": true
             }
           ],
           "enabled": true
