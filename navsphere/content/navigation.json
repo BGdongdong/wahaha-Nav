@@ -841,6 +841,14 @@
               "description": "",
               "icon": "/assets/favicon_1757034793130.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757034880264_25tvqffxv",
+              "title": "Squoosh-图片压缩",
+              "href": "https://squoosh.app/",
+              "description": "Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.",
+              "icon": "/assets/favicon_1757034867760.ico",
+              "enabled": true
             }
           ],
           "enabled": true
