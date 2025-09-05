@@ -225,6 +225,14 @@
               "description": "简忆工具箱,在线工具箱,JS在线解密，加密，站长工具，生活工具，开发工具",
               "icon": "/assets/favicon_1757045244995.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757052705988_70u47496i",
+              "title": "Free AI Writing, PDF, Image, and other Online Tools - TinyWow",
+              "href": "https://tinywow.com/",
+              "description": "Free AI Writing, PDF, Image, and other Online Tools - TinyWow",
+              "icon": "/assets/favicon_1757052639511.png",
+              "enabled": true
             }
           ]
         }
