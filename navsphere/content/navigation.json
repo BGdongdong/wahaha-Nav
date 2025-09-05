@@ -217,6 +217,14 @@
               "description": "孟坤工具箱网页版",
               "icon": "/assets/favicon_1757044515109.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757045252812_acp35mw1t",
+              "title": "简忆工具箱,在线工具箱,JS在线解密,加密,站长工具",
+              "href": "https://www.tpxhm.top/",
+              "description": "简忆工具箱,在线工具箱,JS在线解密，加密，站长工具，生活工具，开发工具",
+              "icon": "/assets/favicon_1757045244995.png",
+              "enabled": true
             }
           ]
         }
