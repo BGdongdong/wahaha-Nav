@@ -201,6 +201,14 @@
               "description": "访问 www.toolnb.com",
               "icon": "/assets/favicon_1757038154050.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757044273750_3dfhg4y7i",
+              "title": "Ol",
+              "href": "https://ol.woobx.cn/",
+              "description": "访问 ol.woobx.cn",
+              "icon": "/assets/favicon_1757044267200.png",
+              "enabled": true
             }
           ]
         }
