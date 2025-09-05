@@ -921,6 +921,14 @@
               "description": "mnggiflab提供了在线免费的将视频转换为gif的功能,可以对视频进行剪辑,增加图片文字水印等动图特效",
               "icon": "/assets/favicon_1757044201821.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757045200458_dm4yqzn2k",
+              "title": "Tool",
+              "href": "https://tool.oschina.net/",
+              "description": "访问 tool.oschina.net",
+              "icon": "/assets/favicon_1757045193403.png",
+              "enabled": true
             }
           ],
           "enabled": true
