@@ -801,6 +801,14 @@
               "description": "证件照大师是一个专业的证件照在线处理网站，提供证件照换底色，证件照质量压缩，证件照合成等证件照处理，操作简单便捷，让证件照处理更简单。",
               "icon": "/assets/favicon_1757033558191.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757033923556_z10ivhvn6",
+              "title": "iLoveIMG | 图像文件在线编辑工具",
+              "href": "https://www.iloveimg.com/zh-cn",
+              "description": "iLoveIMG是一款在线处理图片文件的网站。我们的服务完全免费，而且使用简便。网站的功能有：压缩图像文件、调整文件尺寸、裁剪文件，以及转换文件格式等！",
+              "icon": "/assets/favicon_1757033914633.png",
+              "enabled": true
             }
           ],
           "enabled": true
