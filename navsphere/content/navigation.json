@@ -961,6 +961,14 @@
               "description": "访问 www.wenshushu.cn",
               "icon": "/assets/favicon_1757053474211.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757053509398_ds8gjzn3f",
+              "title": "奶牛快传｜免费大文件传输工具，上传下载不限速 CowTransfer | Unlimited Send Large Files",
+              "href": "https://cowtransfer.com/",
+              "description": "奶牛快传 (CowTransfer) 无需注册即可传输文件，上传下载不限速。传视频、传音频、传图片、跨国传、传大文件。10GB 免费云盘、会员 3TB 超大云盘。最受创意人、广告人及创作者喜爱的效率工具之一，快来体验吧！",
+              "icon": "/assets/favicon_1757053498868.png",
+              "enabled": true
             }
           ],
           "enabled": true
