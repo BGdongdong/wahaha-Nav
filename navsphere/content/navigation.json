@@ -817,6 +817,14 @@
               "description": "Picdiet是一款用JavaScript编写而成的图片压缩神器，所有压缩过程都在浏览器中进行，完全免费",
               "icon": "/assets/favicon_1757034024164.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757034093080_2nikevwmf",
+              "title": "改图宝 - 在线修改照片大小尺寸工具",
+              "href": "https://www.gaitubao.com/",
+              "description": "改图宝是一个在线修改图片(照片)大小和尺寸的免费软件，可把上传照片调整或裁剪为一寸、两寸等尺寸，并能对图片进行压缩大小、修改分辨率、旋转、转换格式、加水印等编辑；适用于公务员、英语、计算机、会计、护士、建造师等考试入学网上报名照片和社保、签证等证件照片及微信图片的处理；现在就使用改图宝在线修改图片大小和尺寸吧！",
+              "icon": "/assets/favicon_1757034086349.ico",
+              "enabled": true
             }
           ],
           "enabled": true
