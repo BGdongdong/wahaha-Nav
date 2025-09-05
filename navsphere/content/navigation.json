@@ -945,6 +945,14 @@
               "description": "访问 tool.oschina.net",
               "icon": "/assets/favicon_1757045193403.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757052773765_a7pfiwgk3",
+              "title": "Photopea | Online Photo Editor",
+              "href": "https://www.photopea.com/",
+              "description": "Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!",
+              "icon": "/assets/favicon_1757052758172.png",
+              "enabled": true
             }
           ],
           "enabled": true
