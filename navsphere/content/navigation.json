@@ -209,6 +209,14 @@
               "description": "访问 ol.woobx.cn",
               "icon": "/assets/favicon_1757044267200.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757044521245_yomy0a93i",
+              "title": "首页 - 孟坤工具箱网页版",
+              "href": "https://tool.mkblog.cn/",
+              "description": "孟坤工具箱网页版",
+              "icon": "/assets/favicon_1757044515109.png",
+              "enabled": true
             }
           ]
         }
