@@ -546,6 +546,14 @@
               "description": "访问 www.qijishow.com",
               "icon": "/assets/favicon_1757316301104.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757316437824_kb84spl9d",
+              "title": "软库网 - 收藏实用、免费资源的软件仓库丨RuanKu.Net",
+              "href": "https://www.ruanku.net/",
+              "description": "软库网是一个专业软件仓库分享网站，完全公益，免费下载供个人学习使用，无广告，无任何盈利性质。收藏有Adobe PhotoShop、CAD、C4D、3DMax、达芬奇等众多专业软件。",
+              "icon": "/assets/favicon_1757316429638.png",
+              "enabled": true
             }
           ]
         },
