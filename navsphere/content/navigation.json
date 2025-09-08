@@ -618,6 +618,14 @@
               "description": "亿破姐『易破解』网站专注无流氓绿色软件分享、游戏下载、电脑技术、经验教程为一体的站点、安全、纯净、放心、十年磨一剑，不忘初心只为给你最需要的内容。",
               "icon": "/assets/favicon_1757323460357.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757323559521_9agyymu0i",
+              "title": "绿软下载站-IT猫扑网-绿色安全的软件下载联盟",
+              "href": "https://www.itmop.com/",
+              "description": "绿软下载站提供包括各类电脑软件,单机游戏,手机游戏,手机app下载,每天更新大量官方app应用及技术文章,IT猫扑网全力打造绿色软件下载基地.",
+              "icon": "/assets/favicon_1757323551456.ico",
+              "enabled": true
             }
           ]
         },
