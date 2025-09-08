@@ -538,6 +538,14 @@
               "description": "访问 www.mefcl.com",
               "icon": "/assets/favicon_1757316228556.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757316312948_n8ew6wufe",
+              "title": "Qijishow",
+              "href": "https://www.qijishow.com/",
+              "description": "访问 www.qijishow.com",
+              "icon": "/assets/favicon_1757316301104.png",
+              "enabled": true
             }
           ]
         },
