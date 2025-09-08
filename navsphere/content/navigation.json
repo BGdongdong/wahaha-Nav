@@ -610,6 +610,14 @@
               "description": "小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站",
               "icon": "/assets/favicon_1757323012085.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1757323468192_b50tt0l0i",
+              "title": "易破解 - 给你所需要的内容",
+              "href": "https://www.ypojie.com/",
+              "description": "亿破姐『易破解』网站专注无流氓绿色软件分享、游戏下载、电脑技术、经验教程为一体的站点、安全、纯净、放心、十年磨一剑，不忘初心只为给你最需要的内容。",
+              "icon": "/assets/favicon_1757323460357.ico",
+              "enabled": true
             }
           ]
         },
