@@ -506,6 +506,14 @@
               "description": "访问 www.ddooo.com",
               "icon": "/assets/favicon_1755570766150.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757315649780_gjoqg929v",
+              "title": "吾爱破解",
+              "href": "https://www.52pojie.cn/",
+              "description": "访问 www.52pojie.cn",
+              "icon": "/assets/favicon_1757315627091.png",
+              "enabled": true
             }
           ]
         },
