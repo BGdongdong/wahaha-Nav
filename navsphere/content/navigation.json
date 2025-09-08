@@ -530,6 +530,14 @@
               "description": "数码荔枝是一家售卖正版软件的商店网站，以优惠价格销售Win/Mac/iOS/Android平台的有关多媒体影音、下载同步、文本笔记编辑、效率办公、系统增强优化、办公自动化、PDF编辑查看等相关软件，并提供使用技巧、使用教程",
               "icon": "/assets/favicon_1757315869830.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757316238941_jvoiippfd",
+              "title": "Mefcl",
+              "href": "https://www.mefcl.com/",
+              "description": "访问 www.mefcl.com",
+              "icon": "/assets/favicon_1757316228556.png",
+              "enabled": true
             }
           ]
         },
