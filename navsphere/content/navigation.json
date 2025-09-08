@@ -594,6 +594,14 @@
               "description": "Softonic is the place to discover the best applications for your device, offering you reviews, news, articles and free downloads. Welcome to your app guide!",
               "icon": "/assets/favicon_1757316815874.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757316958938_47iag4hfm",
+              "title": "Iui",
+              "href": "https://iui.su/",
+              "description": "访问 iui.su",
+              "icon": "/assets/favicon_1757316950124.png",
+              "enabled": true
             }
           ]
         },
