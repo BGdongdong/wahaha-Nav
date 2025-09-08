@@ -586,6 +586,14 @@
               "description": "Minorpatch.com | Download high-quality Mac apps for free",
               "icon": "/assets/favicon_1757316712715.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757316824008_81i0ha1g5",
+              "title": "App news and reviews, best software downloads and discovery - Softonic",
+              "href": "https://en.softonic.com/?ex=RAMP-3507.3&rex=true",
+              "description": "Softonic is the place to discover the best applications for your device, offering you reviews, news, articles and free downloads. Welcome to your app guide!",
+              "icon": "/assets/favicon_1757316815874.ico",
+              "enabled": true
             }
           ]
         },
