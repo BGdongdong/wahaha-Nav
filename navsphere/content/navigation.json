@@ -554,6 +554,14 @@
               "description": "软库网是一个专业软件仓库分享网站，完全公益，免费下载供个人学习使用，无广告，无任何盈利性质。收藏有Adobe PhotoShop、CAD、C4D、3DMax、达芬奇等众多专业软件。",
               "icon": "/assets/favicon_1757316429638.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757316506482_rsvu7jes0",
+              "title": "Soft",
+              "href": "https://soft.3dmgame.com/",
+              "description": "访问 soft.3dmgame.com",
+              "icon": "/assets/favicon_1757316498513.png",
+              "enabled": true
             }
           ]
         },
