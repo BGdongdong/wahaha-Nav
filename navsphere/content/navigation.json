@@ -562,6 +562,14 @@
               "description": "访问 soft.3dmgame.com",
               "icon": "/assets/favicon_1757316498513.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757316543961_kmjjcnm0c",
+              "title": "FOSSHUB",
+              "href": "https://www.fosshub.com/",
+              "description": "No adware, no spyware, no bundles, no malware, fast downloads, free services and a single ad.",
+              "icon": "/assets/favicon_1757316535381.png",
+              "enabled": true
             }
           ]
         },
