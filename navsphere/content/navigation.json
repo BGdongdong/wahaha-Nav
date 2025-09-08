@@ -522,6 +522,14 @@
               "description": "访问 zhutix.com",
               "icon": "/assets/favicon_1757315677329.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757315878064_r64c5jj7v",
+              "title": "数码荔枝 x 软件商店 -  专注于分享最新鲜优秀的正版软件",
+              "href": "https://lizhi.shop/",
+              "description": "数码荔枝是一家售卖正版软件的商店网站，以优惠价格销售Win/Mac/iOS/Android平台的有关多媒体影音、下载同步、文本笔记编辑、效率办公、系统增强优化、办公自动化、PDF编辑查看等相关软件，并提供使用技巧、使用教程",
+              "icon": "/assets/favicon_1757315869830.png",
+              "enabled": true
             }
           ]
         },
