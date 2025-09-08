@@ -514,6 +514,14 @@
               "description": "访问 www.52pojie.cn",
               "icon": "/assets/favicon_1757315627091.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757315687422_ql4noops4",
+              "title": "Zhutix",
+              "href": "https://zhutix.com/",
+              "description": "访问 zhutix.com",
+              "icon": "/assets/favicon_1757315677329.png",
+              "enabled": true
             }
           ]
         },
