@@ -602,6 +602,14 @@
               "description": "访问 iui.su",
               "icon": "/assets/favicon_1757316950124.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757323020484_agtrwlama",
+              "title": "小众软件 - 分享免费、小巧、实用、有趣、绿色的软件",
+              "href": "https://www.appinn.com/",
+              "description": "小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站",
+              "icon": "/assets/favicon_1757323012085.jpg",
+              "enabled": true
             }
           ]
         },
