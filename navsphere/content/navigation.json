@@ -650,6 +650,14 @@
               "description": "",
               "icon": "/assets/favicon_1757382121997.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757382172738_7ibaxfeiy",
+              "title": "Dayanzai",
+              "href": "https://www.dayanzai.me/",
+              "description": "访问 www.dayanzai.me",
+              "icon": "/assets/favicon_1757382159984.png",
+              "enabled": true
             }
           ]
         },
