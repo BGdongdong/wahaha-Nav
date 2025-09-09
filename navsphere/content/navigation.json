@@ -457,6 +457,14 @@
               "description": "访问 www.nasyun.com",
               "icon": "/assets/favicon_1757388748038.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757388800288_gu583tbh4",
+              "title": "i3综合社区 | 搜罗全网黑科技应用，分享海量玩机技巧！",
+              "href": "https://www.i3zh.com/",
+              "description": "打造一个绿色安全软件下载站、以及技术教程分享基地！",
+              "icon": "/assets/favicon_1757388792128.ico",
+              "enabled": true
             }
           ]
         }
