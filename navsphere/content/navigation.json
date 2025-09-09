@@ -1625,6 +1625,14 @@
               "description": "访问 www.hbgsoft.com",
               "icon": "/assets/favicon_1757405152063.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757405301753_rqrh6lc69",
+              "title": "www.wordlm.com",
+              "href": "http://www.wordlm.com/",
+              "description": "",
+              "icon": "/assets/favicon_1757405291252.png",
+              "enabled": true
             }
           ]
         }
