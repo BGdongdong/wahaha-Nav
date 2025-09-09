@@ -666,6 +666,14 @@
               "description": "访问 www.iwyu.com",
               "icon": "/assets/favicon_1757382795752.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757383048668_lfjeme25s",
+              "title": "Foxirj",
+              "href": "https://foxirj.com/",
+              "description": "访问 foxirj.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=foxirj.com",
+              "enabled": true
             }
           ]
         },
