@@ -1641,6 +1641,14 @@
               "description": "访问 www.qinxue.com",
               "icon": "/assets/favicon_1757405362849.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757405433020_84iek2yka",
+              "title": "Yutu",
+              "href": "https://www.yutu.cn/",
+              "description": "访问 www.yutu.cn",
+              "icon": "/assets/favicon_1757405424549.png",
+              "enabled": true
             }
           ]
         }
