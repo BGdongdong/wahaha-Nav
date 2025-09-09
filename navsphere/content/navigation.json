@@ -1577,6 +1577,14 @@
               "description": "设计之家,致力于推广最新的设计理念，关注最新的设计动态,涵盖平面设计,包装设计,网页设计,室内设计,工业设计,插画设计,艺术设计,设计大赛等领域.",
               "icon": "/assets/favicon_1757404205950.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757404497718_rwfqjrxsu",
+              "title": "Lanrenexcel",
+              "href": "https://www.lanrenexcel.com/",
+              "description": "访问 www.lanrenexcel.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.lanrenexcel.com",
+              "enabled": true
             }
           ]
         }
