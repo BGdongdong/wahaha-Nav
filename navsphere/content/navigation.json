@@ -441,6 +441,14 @@
               "description": "访问 www.right.com.cn",
               "icon": "/assets/favicon_1757388340902.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757388680356_7ppfelqsz",
+              "title": "HDSky�����̳-�����豸,����Ӱ��,������������",
+              "href": "https://www.hdsky.net/forum.php",
+              "description": "HDSky�����̳���ٶ�����Դ�����仳��Ӱ������Ƭ���纫�綯����¼Ƭ�������������ܼҵ��豸������HIFI�������顢���֡������������ֽ���������",
+              "icon": "/assets/favicon_1757388671486.png",
+              "enabled": true
             }
           ]
         }
