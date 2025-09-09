@@ -151,6 +151,14 @@
               "description": "访问 saduck.top",
               "icon": "/assets/favicon_1757404720329.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757404910695_j36bdrg0y",
+              "title": "学霸盘 - 百度网盘学习资料搜索下载神器",
+              "href": "https://www.xuebapan.com/",
+              "description": "学霸盘是百度网盘资源搜索引擎，提供抖音,短视频,课程,考研,PPT模板,电子书,会计,计算机等热门资源，实时检查无效资源，帮您更快捷的获取网盘资源下载信息。",
+              "icon": "/assets/favicon_1757404902189.png",
+              "enabled": true
             }
           ]
         },
