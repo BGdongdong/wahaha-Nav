@@ -642,6 +642,14 @@
               "description": "访问 vip.jokerps.com",
               "icon": "/assets/favicon_1757382062820.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757382132464_od6jivsjk",
+              "title": "六音软件地址发布页",
+              "href": "https://6yso.com/",
+              "description": "",
+              "icon": "/assets/favicon_1757382121997.png",
+              "enabled": true
             }
           ]
         },
