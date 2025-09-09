@@ -143,6 +143,14 @@
               "description": "访问 www.doyoudo.com",
               "icon": "/assets/favicon_1757404669055.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757404728954_4t430ftqe",
+              "title": "Saduck",
+              "href": "https://saduck.top/",
+              "description": "访问 saduck.top",
+              "icon": "/assets/favicon_1757404720329.png",
+              "enabled": true
             }
           ]
         },
