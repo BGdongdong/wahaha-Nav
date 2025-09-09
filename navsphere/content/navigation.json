@@ -1617,6 +1617,14 @@
               "description": "访问 www.51zxw.net",
               "icon": "/assets/favicon_1757405057635.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757405161866_zmyydbdgm",
+              "title": "Hbgsoft",
+              "href": "https://www.hbgsoft.com/e.php",
+              "description": "访问 www.hbgsoft.com",
+              "icon": "/assets/favicon_1757405152063.png",
+              "enabled": true
             }
           ]
         }
