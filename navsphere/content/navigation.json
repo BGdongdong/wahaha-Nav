@@ -473,6 +473,14 @@
               "description": "On Medium, anyone can share insightful perspectives, useful knowledge, and life wisdom with the world.",
               "icon": "/assets/favicon_1757388863925.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757399890543_hxynrd3tj",
+              "title": "zFrontier 装备前线",
+              "href": "https://www.zfrontier.com/app/#new",
+              "description": "zFrontier 装备前线 - 机械键盘、键帽、HiFi、摄影装备发烧友聚集地。用更强的装备，探索更大的世界。",
+              "icon": "/assets/favicon_1757399880704.png",
+              "enabled": true
             }
           ]
         }
