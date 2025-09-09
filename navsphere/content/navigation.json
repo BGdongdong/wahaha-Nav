@@ -706,6 +706,14 @@
               "description": "访问 www.rjsos.com",
               "icon": "/assets/favicon_1757387053401.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757387319318_0mojce7vy",
+              "title": "Adobe",
+              "href": "http://adobe.v404.cn/adobe/",
+              "description": "访问 adobe.v404.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=adobe.v404.cn",
+              "enabled": true
             }
           ]
         },
