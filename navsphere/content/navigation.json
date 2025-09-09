@@ -1529,7 +1529,16 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1757401422846_al27aynsy",
+              "title": "Oeasy",
+              "href": "http://www.oeasy.org/",
+              "description": "访问 www.oeasy.org",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.oeasy.org",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
