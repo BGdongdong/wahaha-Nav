@@ -1649,6 +1649,14 @@
               "description": "访问 www.yutu.cn",
               "icon": "/assets/favicon_1757405424549.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757405547108_22ibqpbun",
+              "title": "Chaojikaoba",
+              "href": "https://chaojikaoba.cn/",
+              "description": "访问 chaojikaoba.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=chaojikaoba.cn",
+              "enabled": true
             }
           ]
         }
