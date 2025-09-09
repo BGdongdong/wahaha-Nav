@@ -771,6 +771,14 @@
               "description": "访问 adobe.v404.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=adobe.v404.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1757401609938_o4ini6jve",
+              "title": "ZAPRO · 杂铺 - 优质软件资源分享平台 | 游戏下载、影视工具、系统优化",
+              "href": "https://tmioe.com/",
+              "description": "ZAPRO · 杂铺是您的一站式软件资源分享平台，提供最新的游戏下载、影视工具、系统优化软件等。我们精选优质资源，包括 Windows、MacOS 和 Android 应用，助您提升工作效率和娱乐体验。",
+              "icon": "/assets/favicon_1757401600289.png",
+              "enabled": true
             }
           ]
         },
