@@ -425,7 +425,16 @@
           "icon": "Settings",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1757388166692_16svbfxvv",
+              "title": "Openedv",
+              "href": "http://www.openedv.com/",
+              "description": "访问 www.openedv.com",
+              "icon": "/assets/favicon_1757388153283.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
