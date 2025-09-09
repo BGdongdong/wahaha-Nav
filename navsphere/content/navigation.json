@@ -626,6 +626,14 @@
               "description": "绿软下载站提供包括各类电脑软件,单机游戏,手机游戏,手机app下载,每天更新大量官方app应用及技术文章,IT猫扑网全力打造绿色软件下载基地.",
               "icon": "/assets/favicon_1757323551456.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757381367199_o3dciwqcx",
+              "title": "Tweaked Apps For Free on iOS and Android",
+              "href": "https://appace.co/",
+              "description": "Tweaked Apps For Free on iOS and Android",
+              "icon": "/assets/favicon_1757381358562.ico",
+              "enabled": true
             }
           ]
         },
