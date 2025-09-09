@@ -1561,6 +1561,14 @@
               "description": "访问 www.gfxcamp.com",
               "icon": "/assets/favicon_1757403485614.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757404089404_uwpjxiwv8",
+              "title": "Lookae",
+              "href": "https://www.lookae.com/",
+              "description": "访问 www.lookae.com",
+              "icon": "/assets/favicon_1757404073380.png",
+              "enabled": true
             }
           ]
         }
