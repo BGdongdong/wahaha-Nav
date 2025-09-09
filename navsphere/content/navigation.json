@@ -465,6 +465,14 @@
               "description": "打造一个绿色安全软件下载站、以及技术教程分享基地！",
               "icon": "/assets/favicon_1757388792128.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757388902398_pza7b0ojp",
+              "title": "Medium: Read and write stories.",
+              "href": "https://medium.com/",
+              "description": "On Medium, anyone can share insightful perspectives, useful knowledge, and life wisdom with the world.",
+              "icon": "/assets/favicon_1757388863925.png",
+              "enabled": true
             }
           ]
         }
