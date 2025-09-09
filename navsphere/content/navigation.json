@@ -433,6 +433,14 @@
               "description": "访问 www.openedv.com",
               "icon": "/assets/favicon_1757388153283.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757388358682_drni71s7b",
+              "title": "Right",
+              "href": "https://www.right.com.cn/forum/",
+              "description": "访问 www.right.com.cn",
+              "icon": "/assets/favicon_1757388340902.png",
+              "enabled": true
             }
           ]
         }
