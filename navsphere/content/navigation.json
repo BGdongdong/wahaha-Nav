@@ -1553,6 +1553,14 @@
               "description": "访问 www.renrensucai.com",
               "icon": "/assets/favicon_1757403222049.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757403495036_m3sk9u5e6",
+              "title": "Gfxcamp",
+              "href": "https://www.gfxcamp.com/",
+              "description": "访问 www.gfxcamp.com",
+              "icon": "/assets/favicon_1757403485614.png",
+              "enabled": true
             }
           ]
         }
