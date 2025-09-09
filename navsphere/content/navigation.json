@@ -1522,7 +1522,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "8efdfcd7-dd5d-49f0-95d2-098313e870ea",
+          "title": "学习相关",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754564555766",
