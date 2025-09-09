@@ -1609,6 +1609,14 @@
               "description": "访问 www.lanrenexcel.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.lanrenexcel.com",
               "enabled": true
+            },
+            {
+              "id": "site_1757405067080_en5rxc6ix",
+              "title": "51zxw",
+              "href": "https://www.51zxw.net/",
+              "description": "访问 www.51zxw.net",
+              "icon": "/assets/favicon_1757405057635.png",
+              "enabled": true
             }
           ]
         }
