@@ -698,6 +698,14 @@
               "description": "访问 www.yxssp.com",
               "icon": "/assets/favicon_1757386810174.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757387068113_t8kqna3ia",
+              "title": "Rjsos",
+              "href": "https://www.rjsos.com/",
+              "description": "访问 www.rjsos.com",
+              "icon": "/assets/favicon_1757387053401.png",
+              "enabled": true
             }
           ]
         },
