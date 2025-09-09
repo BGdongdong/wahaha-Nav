@@ -1569,6 +1569,14 @@
               "description": "访问 www.lookae.com",
               "icon": "/assets/favicon_1757404073380.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757404213636_oydqs7ht0",
+              "title": "设计之家 - 传播先进设计理念 推动原创设计发展",
+              "href": "https://www.sj33.cn/",
+              "description": "设计之家,致力于推广最新的设计理念，关注最新的设计动态,涵盖平面设计,包装设计,网页设计,室内设计,工业设计,插画设计,艺术设计,设计大赛等领域.",
+              "icon": "/assets/favicon_1757404205950.png",
+              "enabled": true
             }
           ]
         }
