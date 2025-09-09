@@ -1633,6 +1633,14 @@
               "description": "",
               "icon": "/assets/favicon_1757405291252.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757405373104_2g37ztqar",
+              "title": "Qinxue",
+              "href": "http://www.qinxue.com/",
+              "description": "访问 www.qinxue.com",
+              "icon": "/assets/favicon_1757405362849.png",
+              "enabled": true
             }
           ]
         }
