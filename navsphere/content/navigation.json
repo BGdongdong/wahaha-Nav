@@ -658,6 +658,14 @@
               "description": "访问 www.dayanzai.me",
               "icon": "/assets/favicon_1757382159984.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757382805233_ldjfghr4d",
+              "title": "Iwyu",
+              "href": "https://www.iwyu.com/",
+              "description": "访问 www.iwyu.com",
+              "icon": "/assets/favicon_1757382795752.png",
+              "enabled": true
             }
           ]
         },
