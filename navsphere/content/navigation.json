@@ -690,6 +690,14 @@
               "description": "",
               "icon": "/assets/favicon_1757383462191.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757386820112_7z7jvzfxz",
+              "title": "Yxssp",
+              "href": "https://www.yxssp.com/",
+              "description": "访问 www.yxssp.com",
+              "icon": "/assets/favicon_1757386810174.png",
+              "enabled": true
             }
           ]
         },
