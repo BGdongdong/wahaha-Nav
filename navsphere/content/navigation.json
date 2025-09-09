@@ -135,6 +135,14 @@
               "description": "The largest collection of free stuff on the internet!",
               "icon": "/assets/favicon_1756951777704.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757404682606_71m3roa5i",
+              "title": "Doyoudo",
+              "href": "https://www.doyoudo.com/",
+              "description": "访问 www.doyoudo.com",
+              "icon": "/assets/favicon_1757404669055.png",
+              "enabled": true
             }
           ]
         },
