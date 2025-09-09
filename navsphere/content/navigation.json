@@ -634,6 +634,14 @@
               "description": "Tweaked Apps For Free on iOS and Android",
               "icon": "/assets/favicon_1757381358562.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757382072225_lvsduw8yd",
+              "title": "Vip",
+              "href": "https://vip.jokerps.com/",
+              "description": "访问 vip.jokerps.com",
+              "icon": "/assets/favicon_1757382062820.png",
+              "enabled": true
             }
           ]
         },
