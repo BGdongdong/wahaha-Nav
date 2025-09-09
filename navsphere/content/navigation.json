@@ -449,6 +449,14 @@
               "description": "HDSky�����̳���ٶ�����Դ�����仳��Ӱ������Ƭ���纫�綯����¼Ƭ�������������ܼҵ��豸������HIFI�������顢���֡������������ֽ���������",
               "icon": "/assets/favicon_1757388671486.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757388756224_6qrbqptra",
+              "title": "Nasyun",
+              "href": "http://www.nasyun.com/",
+              "description": "访问 www.nasyun.com",
+              "icon": "/assets/favicon_1757388748038.png",
+              "enabled": true
             }
           ]
         }
